@@ -1,5 +1,13 @@
 # Frontend Coding Challenge 🚀
 
+## ⚠️ AI Usage Policy ⚠️
+
+**❌ PROHIBITED:** Using AI tools (ChatGPT, GitHub Copilot, etc.) to generate complete solutions. Any AI-generated submissions will be **immediately disqualified**.
+
+**✅ ALLOWED:** Using AI for learning concepts or debugging specific issues, but you must write the actual code yourself.
+
+---
+
 Welcome to our frontend coding challenge! This is a great opportunity for you to showcase your frontend skills.
 We're excited to see what you come up with! 🎨🖥️
 
